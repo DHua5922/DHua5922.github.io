@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ce94a7487fe49062a71f46f49ae1106d",
+    "revision": "10ba9ad8b71768c7a9a0777793023aab",
     "url": "/index.html"
   },
   {
-    "revision": "dc806f798323a21b6d65",
+    "revision": "01151fbbaebd0b1bc3db",
     "url": "/static/css/2.5b44f0a0.chunk.css"
   },
   {
-    "revision": "652ed50196a832535a72",
+    "revision": "47d23dc9d1fe160005c5",
     "url": "/static/css/main.2e47a2ab.chunk.css"
   },
   {
-    "revision": "dc806f798323a21b6d65",
-    "url": "/static/js/2.1367ca77.chunk.js"
+    "revision": "01151fbbaebd0b1bc3db",
+    "url": "/static/js/2.93d7dfd8.chunk.js"
   },
   {
     "revision": "11a928b57aca5049fe950bf8bcde77c5",
-    "url": "/static/js/2.1367ca77.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.93d7dfd8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "652ed50196a832535a72",
-    "url": "/static/js/main.31487cf4.chunk.js"
+    "revision": "47d23dc9d1fe160005c5",
+    "url": "/static/js/main.ce392587.chunk.js"
   },
   {
     "revision": "35ec47dfee4c65c275be",
@@ -34,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d592a707a5baafdf8f4e05f6be9525f7",
     "url": "/static/media/img_chatterus.d592a707.jpg"
+  },
+  {
+    "revision": "a61d7e6ccc89ea54e9e61d01761058de",
+    "url": "/static/media/img_cmovie.a61d7e6c.png"
   },
   {
     "revision": "7f21d7edaa831361aa9c23e116e6a2c5",
@@ -60,6 +64,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/img_nutrition.a23ea6dc.jpg"
   },
   {
+    "revision": "636aea676df13f7558756579f7d78d0d",
+    "url": "/static/media/img_service_catalog.636aea67.png"
+  },
+  {
     "revision": "49ac63cd8f94f90739d6edc01151bbd2",
     "url": "/static/media/img_shoppinglist.49ac63cd.jpg"
   },
@@ -70,10 +78,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "dd5a8f184e310642b945063e6135e9ef",
     "url": "/static/media/img_switcher.dd5a8f18.png"
-  },
-  {
-    "revision": "636aea676df13f7558756579f7d78d0d",
-    "url": "/static/media/service_catalog.636aea67.png"
   },
   {
     "revision": "3de1af0de7300d01c44fdb234c5944b5",
