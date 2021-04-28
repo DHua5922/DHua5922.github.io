@@ -1,26 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.acaeed0f.chunk.css",
-    "main.js": "/static/js/main.f49c799c.chunk.js",
-    "main.js.map": "/static/js/main.f49c799c.chunk.js.map",
+    "main.js": "/static/js/main.c886630a.chunk.js",
+    "main.js.map": "/static/js/main.c886630a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8aff3e10.js",
     "runtime-main.js.map": "/static/js/runtime-main.8aff3e10.js.map",
     "static/css/2.266846fb.chunk.css": "/static/css/2.266846fb.chunk.css",
-    "static/js/2.9ce144bf.chunk.js": "/static/js/2.9ce144bf.chunk.js",
-    "static/js/2.9ce144bf.chunk.js.map": "/static/js/2.9ce144bf.chunk.js.map",
+    "static/js/2.90b59453.chunk.js": "/static/js/2.90b59453.chunk.js",
+    "static/js/2.90b59453.chunk.js.map": "/static/js/2.90b59453.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.266846fb.chunk.css.map": "/static/css/2.266846fb.chunk.css.map",
     "static/css/main.acaeed0f.chunk.css.map": "/static/css/main.acaeed0f.chunk.css.map",
-    "static/js/2.9ce144bf.chunk.js.LICENSE.txt": "/static/js/2.9ce144bf.chunk.js.LICENSE.txt",
-    "static/media/video_arsphere.mp4": "/static/media/video_arsphere.c8309245.mp4",
-    "static/media/video_hospital.mp4": "/static/media/video_hospital.0398cde4.mp4",
-    "static/media/video_journalsite.mp4": "/static/media/video_journalsite.85eff2aa.mp4"
+    "static/js/2.90b59453.chunk.js.LICENSE.txt": "/static/js/2.90b59453.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8aff3e10.js",
     "static/css/2.266846fb.chunk.css",
-    "static/js/2.9ce144bf.chunk.js",
+    "static/js/2.90b59453.chunk.js",
     "static/css/main.acaeed0f.chunk.css",
-    "static/js/main.f49c799c.chunk.js"
+    "static/js/main.c886630a.chunk.js"
   ]
 }
